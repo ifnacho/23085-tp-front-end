@@ -1,0 +1,40 @@
+.botonfluo {
+    background-color: rgb(150,201,62); 
+    color: white;
+}
+
+.footerazul {
+    background-color: rgb(29,70,92);
+    background: linear-gradient(rgb(47, 0, 255));
+}
+
+.brillo {
+    filter: brightness(45%);
+    
+}
+
+.fondoGris {
+    background-color: rgb(53,58,64);
+}
+
+.tickets { 
+    color: rgb(5, 214, 50) !important;
+    
+}
+
+.ticketsBtn {
+    background-color: rgb(41,167,68) !important; 
+} 
+
+footer nav a {
+    color: white !important;
+    
+}
+
+.letraChica {
+    font-size: small !important;
+}
+
+
+
+
