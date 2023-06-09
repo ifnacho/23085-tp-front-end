@@ -35,3 +35,6 @@ footer nav a {
     font-size: small !important;
 }
 
+.oculto {
+    display: none;
+}
